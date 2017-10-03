@@ -17,6 +17,18 @@
 	<pubDate>Tue, 03 Oct 2017 20:09:32 +0000</pubDate>
 </item>
 <item>
+	<title>Doug Schaefer: Just in time for Halloween, Ghost</title>
+	<guid isPermaLink="false">https://cdtdoug.ca/tag/eclipse/rss/59d2eb504bfcdf78894a43a7</guid>
+	<link>https://cdtdoug.ca/just-in-time-for-halloween-ghost/</link>
+	<description>&lt;div class=&quot;kg-card-markdown&quot;&gt;&lt;p&gt;When I started my blog &lt;a href=&quot;https://cdtdoug.ca/welcome-to-my-blog/&quot;&gt;almost 12 years ago&lt;/a&gt;, I chose Blogger. For the time it was really cool, being able to easily create content on-line and publish with a click of a button. It served me well.&lt;/p&gt;
+&lt;p&gt;A couple of years ago, I decided I needed to upgrade my skills and learn more about web development. With servers at Digital Ocean only $5 a month, I dove in. Everyone seemed to be throwing love at Wordpress so I chose that and started &lt;a href=&quot;https://cdtdoug.ca&quot;&gt;cdtdoug.ca&lt;/a&gt; importing all my posts from Blogger. PHP and MySQL can be pretty taxing on a $5/month server but I managed to find settings to make it work.&lt;/p&gt;
+&lt;p&gt;As things tend to go, we started doing real web development at work and I ended up using a lot of those skills I gained working with my own server. I learned a lot about AWS and quickly fell in love with the power of it. I chose to grab a free year and I migrated cdtdoug over to an AWS machine. I love how developer friendly Digital Ocean is, but AWS is, well, AWS.&lt;/p&gt;
+&lt;p&gt;Well, the free year ran out and I was running on a $10/month server. And I really wanted to do other things with this server and Wordpress was taking a lot of juice. Googling around for alternatives, &lt;a href=&quot;https://ghost.org&quot;&gt;I ran across Ghost&lt;/a&gt;. Ghost runs on node instead of PHP and when run with the SQLite option, it's very lightweight and fast. If I become super famous, it probably won't scale, but I don't think I need to worry about that.&lt;/p&gt;
+&lt;p&gt;So I set up a new server, a $5/month t2.nano and migrated my Wordpress blog to Ghost with Disqus for comments. &lt;a href=&quot;https://www.ghostforbeginners.com/migrating-your-wordpress-blog-to-ghost/&quot;&gt;I used mainly this guide (click)&lt;/a&gt; and the Ghost docs themselves. It went pretty smooth and I'm pretty happy with it so far. It force me to learn Markdown (what was so wrong with WSIWYG?). And it leaves a lot of room, even on this tiny server, to do some IoT things I've been meaning to try. It'll do for now, until I get the itch to change it yet again.&lt;/p&gt;
+&lt;/div&gt;</description>
+	<pubDate>Tue, 03 Oct 2017 13:00:40 +0000</pubDate>
+</item>
+<item>
 	<title>EclipseCon Europe 2017: Sponsor Testimonial: Orange Eclipse OM2M contributors</title>
 	<guid isPermaLink="false">https://www.eclipsecon.org/europe2017/3144 at https://www.eclipsecon.org/europe2017</guid>
 	<link>https://www.eclipsecon.org/europe2017/news/sponsor-testimonial-orange-eclipse-om2m-contributors</link>
@@ -446,13 +458,6 @@ The plugin also integrates well with other plugins and external tools for which 
 &lt;p&gt;&lt;img alt=&quot;All things IoT Twitter&quot; class=&quot;alignnone size-full wp-image-4285&quot; src=&quot;https://ianskerrett.files.wordpress.com/2017/09/all-things-iot-twitter.png?w=450&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;&lt;br /&gt;  &lt;a href=&quot;http://feeds.wordpress.com/1.0/gocomments/ianskerrett.wordpress.com/4246/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; border=&quot;0&quot; src=&quot;http://feeds.wordpress.com/1.0/comments/ianskerrett.wordpress.com/4246/&quot; /&gt;&lt;/a&gt; &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=ianskerrett.wordpress.com&amp;amp;blog=405862&amp;amp;post=4246&amp;amp;subd=ianskerrett&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/IanSkerrett/~4/zrbwhXRm5uo&quot; width=&quot;1&quot; /&gt;</description>
 	<pubDate>Mon, 25 Sep 2017 14:39:32 +0000</pubDate>
-</item>
-<item>
-	<title>Eclipse Announcements: Special Notice for Eclipse IDE Users on macOS 10.13 in non-English mode</title>
-	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/p9IrpVZZaxI/20170925criticalbug.php</guid>
-	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/p9IrpVZZaxI/20170925criticalbug.php</link>
-	<description>When Eclipse is launched on macOS 10.13 and user's primary language is not set to English, all the menu items in the main menubar are disabled. However, Context menus are not disabled&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/p9IrpVZZaxI&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Mon, 25 Sep 2017 13:30:00 +0000</pubDate>
 </item>
 
 </channel>

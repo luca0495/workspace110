@@ -1,0 +1,6 @@
+diff a/.metadata/.plugins/org.eclipse.core.resources/.history/0/50faa7963aa80017158f8f8b4b2a6b23 b/.metadata/.plugins/org.eclipse.core.resources/.history/0/50faa7963aa80017158f8f8b4b2a6b23	(rejected hunks)
+@@ -0,0 +1,4 @@
++
++public class Pippo {
++
++}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 From ad9a18e4445eb9d462a2a9f604e4ea6a483f871c Mon Sep 17 00:00:00 2001
 From: luca lazzati <lucalazzati1995@gmail.com>
 Date: Tue, 3 Oct 2017 14:58:59 +0200
@@ -5842,6 +5843,47 @@ index 6fc1ffd..9b06fc7 100644
 -
 +// ciao 
  }
+=======
+From 791db05d144c494680480ed70463b88f257aeb54 Mon Sep 17 00:00:00 2001
+From: luca lazzati <lucalazzati1995@gmail.com>
+Date: Tue, 3 Oct 2017 15:16:28 +0200
+Subject: [PATCH] Revert "Initial commit"
+
+This reverts commit cda4616814ee70022478f41e1dea77ba71370674.
+---
+ .gitignore | 22 ----------------------
+ 1 file changed, 22 deletions(-)
+ delete mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+index 6143e53..0000000
+--- a/.gitignore
++++ /dev/null
+@@ -1,22 +0,0 @@
+-# Compiled class file
+-*.class
+-
+-# Log file
+-*.log
+-
+-# BlueJ files
+-*.ctxt
+-
+-# Mobile Tools for Java (J2ME)
+-.mtj.tmp/
+-
+-# Package Files #
+-*.jar
+-*.war
+-*.ear
+-*.zip
+-*.tar.gz
+-*.rar
+-
+-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+-hs_err_pid*
+>>>>>>> 5c25c55946a2d044881e2b0ebc424a1917172daa
 -- 
 2.14.1.windows.1
 
